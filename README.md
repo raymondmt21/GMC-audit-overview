@@ -1,4 +1,4 @@
-# GMC Audit
+# GMC Audit Overview
 
 **Chaos Unleashed** | Proprietary tooling (overview only; source code is private)
 
